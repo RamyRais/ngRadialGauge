@@ -1,6 +1,6 @@
 {
   "name": "ngRadialGauge",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "AngularJS Radial Gauge",
   "main": "./src/ng-radial-gauge-dir.js",
   "keywords": [
@@ -22,7 +22,7 @@
      "test"
   ],
   "dependencies": {
-     "d3": "~3.4.0",
+     "d3": "~3.5.15",
      "angular": "~1.6.3"
   }
 }
